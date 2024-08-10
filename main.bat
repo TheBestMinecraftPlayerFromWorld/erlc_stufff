@@ -1,0 +1,1 @@
+C:/Users/TBMPFW/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/TBMPFW/Desktop/programme/autoRun/main.py
