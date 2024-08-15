@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "erlc-better-radio",
-  "private_key_id": "13c00453779ea1bce0ab748b99b3431fb1b5ede3",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfO9qdaCHoy6qU\nBoNeD/IaGJ4i11XMGhD5XwDdOmEcMSwlj4TnDU7W5SZxCGp4cXKSysr90Eta3EmO\nmtU7ZpuEFwLJPRPcjQoLhSHpmiwQk0hCLgcAZkMddsbOD832c0aAzsmNGH9kCh8y\nbMtNbSr+dnoyaG2YZ0/rmUmwHonSL/V+CTICZ6wSjvnmu8/rvmHPoYVkU/SWGwD1\nYnF+ZmFijApodJ/qAKyCc1N0H16SATAIipy2txBGNAB9nGHyVqVxWvGLsml+SUmY\nUdNfcIRgyKBIfTXpJB//CeCLGZSOMzPqOHvmctLXVBZqN8AWzhSlxZZBRRyxsbrR\nPYwZTh5fAgMBAAECggEAUM5OvUnTdHw82+ZbqTHmdjHRFFWUVhRdbpdILcyTGGxo\nSZRhDG4RytIaDzJ3r++JBL/pqOS8UkCJU9iSNTVYOAFIXeYBCYX4S+E+PFw1dS6L\nKoGUwT1DMCgtoKux53Mk4z13Ud67RlAvqMYe9YD93iyu4Q5SFafYEzViqiDzzKQo\nJxjl+kp+pQ9emAkTGxZM5oNb2a1AwUemtzTv5kHUF++eBJ6x/6HH217P/gl+WRM3\nuuFsOXFZJO2Jsv3gFfi+qXDe7q18d++8eKxaB0XKVkNDzrijqoTzXlawgi1g3wqv\npiwEAOzJR/0Eh+twa0s2h6ynDs41hGmpcbom3yxTkQKBgQD/x4IQ9QCfMbhYGD/E\n/nyVeCd2YBvEPyWmpJ3dV3fAYa+3nZC03J76rf6wp1Jy0o0WeMiyDrB5bv79GUUF\nUeqzDo+9ZKkkHQ51iiB/JnQf0Q94CtAkUN98pMWV6YdF5wyfUOO26K5xDXOEP4dF\nNTxw2JHna6hcP2DWebPpRL1mZwKBgQDfbShnK+/D0NW6tVVzp15lIvQBmkUtQijL\naLIdIjglS6ATmLxfW0Dfj7rcew1BA4/ChL+xR+m6KEYs4OMjvKzGCvVUHvW5/vO1\nt4fFFMiI0b+LeiJogWqdFGzmiIP52d0H55T0KQrK3XXGhsKmFMx8esbQMienHOQK\n4kuiUdPdSQKBgQD0VxRLOqFDcm3VyiRw/WLqLoQUMy+TQ3emP6+G2J3PLAJ+d4jb\nHb7JXhnli5HZmoWpJ+0hG6M9/eicw90Jff2k2444sMZbd15urmrozEU2d7I9TKcV\naiR0n7sYwKO3BUcrkkxWWOT7novxk/aXCIoaiuimmFOW+/x4Jn7VohMElQKBgEsw\nagNmdtbYJcUilzJHpe21OJZ9e0BC3oWtoxtI08pBTAqsQOB6TjeuH/1o78nsT+nv\nUK9xewep3AvoVqhFK4OuVmdLz/gbA5sou2komF/q7mIa5Q90VhOstwVR9dAUcFzj\no24Tjc09gBAic8j+gN53VwbjihKkF15OT5O9o+X5AoGAXl+RyrZWa8CQhLmVRpVy\nop72bIeerUunqdJ9+EihCAKg9q/W5o+537fYwwx9u8A92jJ84DbHQd2onxEiMD5x\n14a//fM452A0t5kRcJPa7i6RiTWM8wWXF0m1DujSOTM43fBrkOhQ2FuYhbyrZ0Uu\n8VTbhfsTkSa3FhSP5wUe8hY=\n-----END PRIVATE KEY-----\n",
-  "client_email": "speech@erlc-better-radio.iam.gserviceaccount.com",
-  "client_id": "115092169556302367299",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech%40erlc-better-radio.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
