@@ -31,18 +31,7 @@ def getPngURL(image):
 
     return data_url
 def ocr(imgUrl):
-    url = "https://text-in-images-recognition.p.rapidapi.com/prod"
-
-    payload = { "objectUrl": imgUrl}
-    headers = {
-        "x-rapidapi-key": "fe9bb9d3efmsha2ef62607fbae1cp187ba4jsnd52fe0f21f59",
-        "x-rapidapi-host": "text-in-images-recognition.p.rapidapi.com",
-        "Content-Type": "application/json"
-    }
-
-    response = requests.post(url, json=payload, headers=headers)
-
-    print(response.json())
+    pass
 lastWhiteN = 1
 casts = 0
 lastTime = time.time()
