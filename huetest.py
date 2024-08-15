@@ -9,7 +9,7 @@ time.sleep(1)  # wait for search
 
 hue = Hue("192.168.1.100","4YhSKSbjDjZtBsEC75KLyc2Wg957CdIrAko4FFz6")
 lights  = hue.lights
-lightsZimmer = ["20f0123b-2032-4d66-a350-b8df4ba53a4e","4092d90f-6043-4338-9465-5094379bc347","804242cf-09b2-4f14-83c2-5035c2d9c0ef"]
+lightsZimmer = []
 def switchLights():
     brightness = 100
     if localtime().tm_hour>=17:
