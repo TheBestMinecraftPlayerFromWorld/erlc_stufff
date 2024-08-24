@@ -7,7 +7,7 @@ import time
 import numpy as np
 
 # Set your OpenAI API key
-openai.api_key = '' # INSER KEY
+openai.api_key = 'sk-P1UQOqYUX20-66InmZvVnfwJgWp3m1ZNVY8Jh-WDB5T3BlbkFJuftuJWQaK6iU7H8XuzxiTsOmnRA3A22hww-rbjaZ0A'
 
 recording = None
 fs = 30000  # Increased sample rate

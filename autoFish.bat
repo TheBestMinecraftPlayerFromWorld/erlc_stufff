@@ -1,0 +1,1 @@
+C:/Users/1RKLOIMSTEINNico/AppData/Local/Programs/Python/Python310/python.exe c:/Users/1RKLOIMSTEINNico/Downloads/erlc_stufff-main/erlc_stufff-main/erlcAutoFish.py
